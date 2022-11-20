@@ -1,4 +1,4 @@
-# Pandas_Task2
+# Pandas_Task2 (Create functions for the below)
 1. Kindly convert Effective_From column to date format
 2. Kindly remove employee duplicates for each based on Effective_From date.
 3. Kindly calculate Fixed salary from summation of Fixed_Salary_Basic_wef_Apr_19 and Fixed_Salary_DA_TA_wef_Apr_19.
